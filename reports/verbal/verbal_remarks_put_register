@@ -1,0 +1,80 @@
+{
+  "type": "verbalRemarks",
+  "files": [],
+  "id": "309ca325-f867-49eb-9d07-3d6dd09d0428",
+  "createdAt": "2025-12-20T15:24:12.587448",
+  "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+  "createdByFio": "IBA",
+  "updatedAt": "2025-12-24T10:54:02.896272992",
+  "updatedBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+  "updatedByFio": "IBA",
+  "deleted": false,
+  "isActive": false,
+  "verbalRemarkDate": "2025-12-12",
+  "articleName": {
+    "type": "articlesNorm",
+    "id": "2316f97a-2bdd-4065-a589-d7b012ff50be"
+  },
+  "articleSign": {
+    "type": "signsAp",
+    "id": "8112a501-36bd-463f-8739-2b8e2f4ac2e4"
+  },
+  "circOffence": {
+    "type": "detCircOffence",
+    "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+  },
+  "pto": {
+    "type": "ptoBr",
+    "id": "1aa5db9d-2dfe-45ed-a0a7-cf9de5a5832e"
+  },
+  "citizenship": {
+    "type": "countries",
+    "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+    "code": 112,
+    "name": "Республика Беларусь",
+    "nameShort": "Беларусь"
+  },
+  "customs": null,
+  "objectDescriptionText": "Описание текстовое",
+  "lastName": "ЯБЛОЧКОВ",
+  "firstName": "ИГОРЬ",
+  "surname": null,
+  "fio": "ЯБЛОЧКОВ ИГОРЬ",
+  "birthDate": "1999-05-12",
+  "docType": {
+    "type": "docId",
+    "id": "d456c14b-70d1-4c6e-b4f2-734cbeef146a"
+  },
+  "docNum": "AB2968686",
+  "docId": "3120599C005PB4",
+  "departureCountry": {
+    "type": "countries",
+    "id": "1b4ceecf-7593-4b54-b543-21194ea85bb7",
+    "code": 616,
+    "name": "Польская Республика",
+    "nameShort": "Польша"
+  },
+  "destinationCountry": {
+    "type": "countries",
+    "id": "5dc32de4-8440-4cd9-9c99-991a1bf22e5b",
+    "code": 643,
+    "name": "Российская Федерация",
+    "nameShort": "Россия"
+  },
+  "objectDescription": {
+    "type": "detItems",
+    "id": "c8495db1-269a-426e-9c87-96d94d7cbda0",
+    "code": 1,
+    "name": "Наркотические средства"
+  },
+  "amount": 213.0,
+  "measureUnit": {
+    "type": "itemsUnits",
+    "id": "ff7e2951-1f3b-4ce6-9725-9c5a420f46c2"
+  },
+  "unitCost": 1231.0,
+  "movementDirection": {
+    "type": "dirMov",
+    "id": "b6706042-d80a-42a3-af08-b417e154513f"
+  }
+}

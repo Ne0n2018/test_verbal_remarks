@@ -1,0 +1,794 @@
+{
+  "content": [
+    {
+      "files": [],
+      "id": "54b010e5-396c-4228-8fac-f4ba5935877b",
+      "createdAt": "2025-12-24T11:27:10.377613",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T11:27:10.3827",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-24",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "d9573359-9090-49bf-b5e9-5a9ea0596395"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "47a42604-bc25-40c5-a6f8-012f61cb13ad"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "aade6f1c-1dc1-457e-bf19-7bb4d301247f"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "72e31115-aa1d-486b-a072-1b5400e87ca1",
+        "code": 4,
+        "name": "Исламский Эмират Афганистан",
+        "nameShort": "Афганистан"
+      },
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": "Описание предмета текстом 3",
+      "lastName": "ЯБЛОЧКОВ",
+      "firstName": "ИГОРЬ",
+      "surname": "a54321",
+      "fio": "ЯБЛОЧКОВ ИГОРЬ a54321",
+      "birthDate": "2000-05-12",
+      "docType": {
+        "type": "docId",
+        "id": "d456c14b-70d1-4c6e-b4f2-734cbeef146a"
+      },
+      "docNum": "AB2968686",
+      "docId": "3120599C005PB4",
+      "departureCountry": {
+        "type": "countries",
+        "id": "3ad19c8a-09da-41cf-a5e2-614a93ce31b7",
+        "code": 268,
+        "name": "Грузия",
+        "nameShort": "Грузия"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2d77ca00-df8d-4d2c-af3d-73f65744c932",
+        "code": 2,
+        "name": "Психотропные вещества"
+      },
+      "amount": 10011.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "6ec3b407-edbc-4e57-a095-42fb957388ef"
+      },
+      "unitCost": 1011.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "19cd3563-7f7c-4e29-9896-66ccc0e678fc"
+      }
+    },
+    {
+      "files": [],
+      "id": "6c23db53-f915-48a2-83ac-246bdba6abee",
+      "createdAt": "2025-12-24T11:19:08.073258",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T11:19:08.077345",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-24",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "340fadcb-147a-45cb-857e-e83436da12c1"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "708e1c72-6a39-4088-b440-fd4a83eff1b3"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "107ec56b-1137-449a-8208-8315cd2592a4",
+        "code": 8,
+        "name": "Республика Албания",
+        "nameShort": "Албания"
+      },
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": null,
+      "lastName": "Иванов",
+      "firstName": "Иван",
+      "surname": "Иванович",
+      "fio": "Иванов Иван Иванович",
+      "birthDate": "2009-12-11",
+      "docType": {
+        "type": "docId",
+        "id": "ee3471d1-b130-401a-868d-7f7ecfbeb0ef"
+      },
+      "docNum": null,
+      "docId": null,
+      "departureCountry": {
+        "type": "countries",
+        "id": "cbd72157-785f-4d53-8c39-cd6043e80a8e",
+        "code": 20,
+        "name": "Княжество Андорра",
+        "nameShort": "Андорра"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2d77ca00-df8d-4d2c-af3d-73f65744c932",
+        "code": 2,
+        "name": "Психотропные вещества"
+      },
+      "amount": 1.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "ff7e2951-1f3b-4ce6-9725-9c5a420f46c2"
+      },
+      "unitCost": 12.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "19cd3563-7f7c-4e29-9896-66ccc0e678fc"
+      }
+    },
+    {
+      "files": [],
+      "id": "c843efcc-6575-47e4-985a-ca51ec6a1f64",
+      "createdAt": "2025-12-24T11:14:44.115443",
+      "createdBy": "8a69d477-9330-f9df-0193-3e4fb6ab1226",
+      "createdByFio": "Милевский Дмитрий Васильевич",
+      "updatedAt": "2025-12-24T11:14:44.121407",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-24",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "340fadcb-147a-45cb-857e-e83436da12c1"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "708e1c72-6a39-4088-b440-fd4a83eff1b3"
+      },
+      "circOffence": null,
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": null,
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": null,
+      "lastName": null,
+      "firstName": null,
+      "surname": null,
+      "fio": "",
+      "birthDate": "2009-12-24",
+      "docType": null,
+      "docNum": null,
+      "docId": null,
+      "departureCountry": null,
+      "destinationCountry": null,
+      "objectDescription": null,
+      "amount": null,
+      "measureUnit": null,
+      "unitCost": null,
+      "movementDirection": null
+    },
+    {
+      "files": [],
+      "id": "3ab54703-de6b-4528-bb4d-3e7613f873b3",
+      "createdAt": "2025-12-24T11:07:48.502485",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T11:07:48.506763",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-24",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "340fadcb-147a-45cb-857e-e83436da12c1"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "708e1c72-6a39-4088-b440-fd4a83eff1b3"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "c7a89bfd-795a-4d31-a4f5-e4a2442a3c75",
+        "code": 10,
+        "name": "Антарктида",
+        "nameShort": "Антарктида"
+      },
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": null,
+      "lastName": null,
+      "firstName": null,
+      "surname": null,
+      "fio": "",
+      "birthDate": "2009-12-10",
+      "docType": null,
+      "docNum": null,
+      "docId": null,
+      "departureCountry": null,
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": null,
+      "amount": null,
+      "measureUnit": null,
+      "unitCost": null,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "19cd3563-7f7c-4e29-9896-66ccc0e678fc"
+      }
+    },
+    {
+      "files": [],
+      "id": "543316d8-38c3-4336-a5c7-f42dd06f8ee4",
+      "createdAt": "2025-12-24T11:01:28.993045",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T11:01:28.997922",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-24",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "340fadcb-147a-45cb-857e-e83436da12c1"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "708e1c72-6a39-4088-b440-fd4a83eff1b3"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "107ec56b-1137-449a-8208-8315cd2592a4",
+        "code": 8,
+        "name": "Республика Албания",
+        "nameShort": "Албания"
+      },
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": null,
+      "lastName": "Иванов",
+      "firstName": "Иван",
+      "surname": "Иванович",
+      "fio": "Иванов Иван Иванович",
+      "birthDate": "2009-12-11",
+      "docType": {
+        "type": "docId",
+        "id": "ee3471d1-b130-401a-868d-7f7ecfbeb0ef"
+      },
+      "docNum": null,
+      "docId": null,
+      "departureCountry": {
+        "type": "countries",
+        "id": "cbd72157-785f-4d53-8c39-cd6043e80a8e",
+        "code": 20,
+        "name": "Княжество Андорра",
+        "nameShort": "Андорра"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2d77ca00-df8d-4d2c-af3d-73f65744c932",
+        "code": 2,
+        "name": "Психотропные вещества"
+      },
+      "amount": 1.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "ff7e2951-1f3b-4ce6-9725-9c5a420f46c2"
+      },
+      "unitCost": 12.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "19cd3563-7f7c-4e29-9896-66ccc0e678fc"
+      }
+    },
+    {
+      "files": [],
+      "id": "dc759a6b-c8d3-450a-aa6d-41970893050b",
+      "createdAt": "2025-12-22T16:14:49.234479",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T11:19:08.305255",
+      "updatedBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "updatedByFio": "IBA",
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-06",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "2e460283-bc3f-4b26-8aae-5d2a0e6702e0"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "797cbac1-672f-4c95-a07e-4d102cac15cf"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "aade6f1c-1dc1-457e-bf19-7bb4d301247f"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "cb7ea372-53ca-430e-8609-138b5dadff22"
+      },
+      "citizenship": null,
+      "customs": {
+        "type": "tamBr",
+        "id": "5f20945a-aa3a-48fb-a48a-d70d8d22d4ab",
+        "code": 2,
+        "name": "МИНСКАЯ ЦЕНТРАЛЬНАЯ ТАМОЖНЯ"
+      },
+      "objectDescriptionText": "второй трай",
+      "lastName": null,
+      "firstName": null,
+      "surname": null,
+      "fio": "",
+      "birthDate": "2009-12-24",
+      "docType": {
+        "type": "docId",
+        "id": "ee3471d1-b130-401a-868d-7f7ecfbeb0ef"
+      },
+      "docNum": null,
+      "docId": null,
+      "departureCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "107ec56b-1137-449a-8208-8315cd2592a4",
+        "code": 8,
+        "name": "Республика Албания",
+        "nameShort": "Албания"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2d77ca00-df8d-4d2c-af3d-73f65744c932",
+        "code": 2,
+        "name": "Психотропные вещества"
+      },
+      "amount": 7878.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "ff7e2951-1f3b-4ce6-9725-9c5a420f46c2"
+      },
+      "unitCost": 78778.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "5cb90f35-ef3c-4fd5-af24-c39963bca3ba"
+      }
+    },
+    {
+      "files": [],
+      "id": "70561eae-7b9b-49da-97cc-a20926e79814",
+      "createdAt": "2025-12-22T08:38:31.712761",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-22T16:07:43.765227",
+      "updatedBy": "8a69d477-9330-f9df-0193-3e4fb6ab1226",
+      "updatedByFio": "Милевский Дмитрий Васильевич",
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-01-14",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "d9573359-9090-49bf-b5e9-5a9ea0596395"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "47a42604-bc25-40c5-a6f8-012f61cb13ad"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "aade6f1c-1dc1-457e-bf19-7bb4d301247f"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "67315b2a-0c2e-4de5-bad3-f4c863df98a2"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "72e31115-aa1d-486b-a072-1b5400e87ca1",
+        "code": 4,
+        "name": "Исламский Эмират Афганистан",
+        "nameShort": "Афганистан"
+      },
+      "customs": {
+        "type": "tamBr",
+        "id": "7ced546d-f94e-4b01-915b-77882675b2c6",
+        "code": 1,
+        "name": "ГОСУДАРСТВЕННЫЙ ТАМОЖЕННЫЙ КОМИТЕТ РБ"
+      },
+      "objectDescriptionText": "Описание предмета текстом 2",
+      "lastName": "ЯБЛОЧКОВ",
+      "firstName": "ИГОРЬ",
+      "surname": "a54321",
+      "fio": "ЯБЛОЧКОВ ИГОРЬ a54321",
+      "birthDate": "2000-05-12",
+      "docType": {
+        "type": "docId",
+        "id": "d456c14b-70d1-4c6e-b4f2-734cbeef146a"
+      },
+      "docNum": "AB2968686",
+      "docId": "3120599C005PB4",
+      "departureCountry": null,
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2d77ca00-df8d-4d2c-af3d-73f65744c932",
+        "code": 2,
+        "name": "Психотропные вещества"
+      },
+      "amount": 10011.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "6ec3b407-edbc-4e57-a095-42fb957388ef"
+      },
+      "unitCost": 1011.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "19cd3563-7f7c-4e29-9896-66ccc0e678fc"
+      }
+    },
+    {
+      "files": [],
+      "id": "309ca325-f867-49eb-9d07-3d6dd09d0428",
+      "createdAt": "2025-12-20T15:24:12.587448",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-24T10:54:02.903601",
+      "updatedBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "updatedByFio": "IBA",
+      "deleted": false,
+      "isActive": false,
+      "verbalRemarkDate": "2025-12-12",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "2316f97a-2bdd-4065-a589-d7b012ff50be"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "8112a501-36bd-463f-8739-2b8e2f4ac2e4"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "1aa5db9d-2dfe-45ed-a0a7-cf9de5a5832e"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "customs": null,
+      "objectDescriptionText": "Описание текстовое",
+      "lastName": "ЯБЛОЧКОВ",
+      "firstName": "ИГОРЬ",
+      "surname": null,
+      "fio": "ЯБЛОЧКОВ ИГОРЬ",
+      "birthDate": "1999-05-12",
+      "docType": {
+        "type": "docId",
+        "id": "d456c14b-70d1-4c6e-b4f2-734cbeef146a"
+      },
+      "docNum": "AB2968686",
+      "docId": "3120599C005PB4",
+      "departureCountry": {
+        "type": "countries",
+        "id": "1b4ceecf-7593-4b54-b543-21194ea85bb7",
+        "code": 616,
+        "name": "Польская Республика",
+        "nameShort": "Польша"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "5dc32de4-8440-4cd9-9c99-991a1bf22e5b",
+        "code": 643,
+        "name": "Российская Федерация",
+        "nameShort": "Россия"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "c8495db1-269a-426e-9c87-96d94d7cbda0",
+        "code": 1,
+        "name": "Наркотические средства"
+      },
+      "amount": 213.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "ff7e2951-1f3b-4ce6-9725-9c5a420f46c2"
+      },
+      "unitCost": 1231.0,
+      "movementDirection": {
+        "type": "dirMov",
+        "id": "b6706042-d80a-42a3-af08-b417e154513f"
+      }
+    },
+    {
+      "files": [],
+      "id": "3cdc5a87-9939-40fa-9f21-8ce64b7dc0e7",
+      "createdAt": "2025-12-13T11:53:12.05472",
+      "createdBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "createdByFio": "IBA",
+      "updatedAt": "2025-12-13T11:53:12.138897",
+      "updatedBy": null,
+      "updatedByFio": null,
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-01-01",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "340fadcb-147a-45cb-857e-e83436da12c1"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "275a47cf-71c3-401b-b780-64fbca23f87e"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "4c64bd3f-4a5a-48fa-bbde-14f572b989bc"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "31184fde-d637-417a-9029-0967ad623574"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "customs": null,
+      "objectDescriptionText": null,
+      "lastName": "Иванов",
+      "firstName": "Иван",
+      "surname": "Иванович",
+      "fio": "Иванов Иван Иванович",
+      "birthDate": "1990-01-01",
+      "docType": {
+        "type": "docId",
+        "id": "ee3471d1-b130-401a-868d-7f7ecfbeb0ef"
+      },
+      "docNum": null,
+      "docId": "3010190C001PB1",
+      "departureCountry": {
+        "type": "countries",
+        "id": "1b4ceecf-7593-4b54-b543-21194ea85bb7",
+        "code": 616,
+        "name": "Польская Республика",
+        "nameShort": "Польша"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2b062b99-68a5-45d4-93b9-bc213c631fc2",
+        "code": 1001,
+        "name": "Ацетилированный опий"
+      },
+      "amount": 100.0,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "313159dc-f392-4ae4-885f-c520f89609d1"
+      },
+      "unitCost": 1000.0,
+      "movementDirection": null
+    },
+    {
+      "files": [],
+      "id": "a77312ba-792f-4874-a253-85a3a0ecf15d",
+      "createdAt": "2025-12-05T15:29:52.50002",
+      "createdBy": "8a69d477-9330-f9df-0193-3e4fb6ab1226",
+      "createdByFio": "Милевский Дмитрий Васильевич",
+      "updatedAt": "2025-12-20T11:31:22.436168",
+      "updatedBy": "2c9a5081-7573-9b1d-0175-b6703fe70006",
+      "updatedByFio": "IBA",
+      "deleted": false,
+      "isActive": true,
+      "verbalRemarkDate": "2025-12-04",
+      "articleName": {
+        "type": "articlesNorm",
+        "id": "79418fff-db45-485e-9bb1-07e9db21b2d2"
+      },
+      "articleSign": {
+        "type": "signsAp",
+        "id": "275a47cf-71c3-401b-b780-64fbca23f87e"
+      },
+      "circOffence": {
+        "type": "detCircOffence",
+        "id": "aade6f1c-1dc1-457e-bf19-7bb4d301247f"
+      },
+      "pto": {
+        "type": "ptoBr",
+        "id": "d614ab23-a9f6-49ea-acf7-1b9827088a1b"
+      },
+      "citizenship": {
+        "type": "countries",
+        "id": "cd1754ff-eb38-41df-8678-b592f8bcf7fc",
+        "code": 51,
+        "name": "Республика Армения",
+        "nameShort": "Армения"
+      },
+      "customs": null,
+      "objectDescriptionText": null,
+      "lastName": "Фамилия",
+      "firstName": "Имя",
+      "surname": "Отчество",
+      "fio": "Фамилия Имя Отчество",
+      "birthDate": "2009-12-03",
+      "docType": {
+        "type": "docId",
+        "id": "ee3471d1-b130-401a-868d-7f7ecfbeb0ef"
+      },
+      "docNum": "",
+      "docId": "22222222222222",
+      "departureCountry": {
+        "type": "countries",
+        "id": "a9865ea9-3386-4549-b7bd-fc8dd0a2fadd",
+        "code": 0,
+        "name": "Неизвестна",
+        "nameShort": "Неизвестна"
+      },
+      "destinationCountry": {
+        "type": "countries",
+        "id": "ef1a5783-acad-4454-bc72-f073a00d7b03",
+        "code": 112,
+        "name": "Республика Беларусь",
+        "nameShort": "Беларусь"
+      },
+      "objectDescription": {
+        "type": "detItems",
+        "id": "2b062b99-68a5-45d4-93b9-bc213c631fc2",
+        "code": 1001,
+        "name": "Ацетилированный опий"
+      },
+      "amount": 2.11,
+      "measureUnit": {
+        "type": "itemsUnits",
+        "id": "6ec3b407-edbc-4e57-a095-42fb957388ef"
+      },
+      "unitCost": 2.2,
+      "movementDirection": null
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 10,
+    "sort": [
+      {
+        "direction": "DESC",
+        "property": "createdAt",
+        "ignoreCase": false,
+        "nullHandling": "NULLS_LAST",
+        "descending": true,
+        "ascending": false
+      }
+    ],
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": false,
+  "totalElements": 15,
+  "totalPages": 2,
+  "first": true,
+  "size": 10,
+  "number": 0,
+  "sort": [
+    {
+      "direction": "DESC",
+      "property": "createdAt",
+      "ignoreCase": false,
+      "nullHandling": "NULLS_LAST",
+      "descending": true,
+      "ascending": false
+    }
+  ],
+  "numberOfElements": 10,
+  "empty": false
+}
