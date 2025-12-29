@@ -1,0 +1,5 @@
+'example env file'
+URL_FROM_TEST=
+TEST_USERNAME=
+TEST_PASSWORD=
+TEST_CODE=
