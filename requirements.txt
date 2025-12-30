@@ -1,0 +1,5 @@
+requests~=2.32.5
+Pygments~=2.19.2
+urllib3~=2.6.2
+pytest~=9.0.2
+python-dotenv~=1.2.1
